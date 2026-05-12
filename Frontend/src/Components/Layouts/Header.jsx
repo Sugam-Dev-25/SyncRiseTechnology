@@ -52,7 +52,7 @@ const Header = () => {
               }}
             />
 
-            <span className="fw-bold fs-4 fs-lg-4 text-white">
+            <span className="fw-bold fs-6 fs-lg-5 text-white">
               SyncRise{" "}
               <span
                 style={{
